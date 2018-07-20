@@ -1,0 +1,3 @@
+D:\GitProject\myXcomProjectFix\myXcomProject\Source\myXcomProject\myXcomProject.Build.cs
+D:\GitProject\myXcomProjectFix\myXcomProject\Source\myXcomProject.Target.cs
+D:\GitProject\myXcomProjectFix\myXcomProject\Source\myXcomProjectEditor.Target.cs

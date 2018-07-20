@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\myXcomProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{98195274-EC50-428E-BC61-925AF4ABC2C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\myXcomProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\myXcomProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F221C4A5-5006-4805-BA51-DDEEB00A3CE6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\myXcomProject">
+      <UniqueIdentifier>{EC37DD45-9540-42AE-8705-4CD21086A7A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\myXcomProject\myXcomProject.Build.cs">
+      <Filter>Source\myXcomProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\myXcomProject\myXcomProject.cpp">
+      <Filter>Source\myXcomProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\myXcomProject\myXcomProject.h">
+      <Filter>Source\myXcomProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\myXcomProject\Private">
+      <UniqueIdentifier>{96779E46-E1E3-4A9A-8F0C-A4CC497B99A1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\myXcomProject\Public">
+      <UniqueIdentifier>{5EB44288-F5E4-41BE-A086-D5601E0716C3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
